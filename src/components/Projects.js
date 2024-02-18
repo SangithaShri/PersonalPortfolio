@@ -20,7 +20,7 @@ const Projects = () => {
             {
                 image: Portfolio,
                 description: 'Personal Portfolio. Developed with React and Tailwind CSS.',
-                link: ''
+                link: 'https://github.com/SangithaShri/PersonalPortfolio'
             }
         ]
     }
