@@ -5,7 +5,7 @@ import { TbBrandLeetcode } from "react-icons/tb";
 
 const Hero = () => {
     const config  = {
-        subtitle: 'Im a Data Analyst | Full Stack Developer',
+        subtitle: 'Data Analyst | Full Stack Developer',
         social: {
             github: 'https://github.com/SangithaShri',
             linkedin: 'https://www.linkedin.com/in/sangitha-shri-1426a1256',
