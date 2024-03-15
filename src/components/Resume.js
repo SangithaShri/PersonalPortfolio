@@ -1,11 +1,12 @@
 import React from 'react'
+import resume from '../assests/RESUME - SANGITHA SHRI G.pdf'
 
 const Resume = () => {
   const config = {
-    link: 'https://www.africau.edu/images/default/sample.pdf'
+    link: resume,
 }
 
-  return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-10'>
+  return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-10 py-10'>
     <div className='md:w-1/2 py-5 flex justify-center'>
         <img className='w-[400px]' src='https://img.freepik.com/free-vector/resume-concept-woman-makes-resume-vector-illustration-flat_186332-971.jpg?w=740' />
     </div>
