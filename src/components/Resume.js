@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../assests/RESUME - SANGITHA SHRI G.pdf'
+import resume from '../assests/SANGITHA SHRI G.pdf'
 
 const Resume = () => {
   const config = {
