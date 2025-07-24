@@ -3,7 +3,7 @@ import Routine from '../assests/routine.png';
 import Eventine from '../assests/eventine.png';
 import Portfolio from '../assests/port.jpg';
 import Hangman from '../assests/Hangman.png';
-import ToDoList from '../assests/ToDoList.png';
+import lissora from '../assests/lissora.png';
 import Icecream from '../assests/Icecream.png';
 
 const Projects = () => {
