@@ -31,9 +31,9 @@ const Projects = () => {
                 link: 'https://github.com/SangithaShri/Hangman'
             },
             {
-                image: ToDoList,
-                description: 'To Do List where users can add, check and uncheck the tasks, delete the tasks. Developed with Javascript. ',
-                link: 'https://github.com/SangithaShri/ToDoList'
+                image: lissora,
+                description: 'Lissora where yu can listen music when you are bored. ',
+                link: 'https://github.com/SangithaShri/LissoraMusic'
             },
             {
                 image: Icecream,
